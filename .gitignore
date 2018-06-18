@@ -7,3 +7,8 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+.babelrc
+LICENSE.MD
+package.json
+webpack.config.js
+package-lock.json
